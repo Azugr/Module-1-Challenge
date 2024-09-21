@@ -1,0 +1,5 @@
+# Ignore all files in the user's directory
+/C:/Users/azugr/*
+
+# Don't ignore your project folder
+!/C:/Users/azugr/Documents/Bootcamp-Materials/source/Bootcamp/Homework/Module-1-Challenge/
